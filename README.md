@@ -1,6 +1,6 @@
 # Sniper Game
 
-A creative sniper game. Control the player with arrow keys, jump with s, and shoot with space.
+A creative sniper game. Control the player with "arrow keys", jump with "s", and shoot with "space".
 
 ## Screencapture
 
